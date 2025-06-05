@@ -118,12 +118,6 @@ The **plane segmentation pipeline** implemented in the notebook includes the fol
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 🙏 Acknowledgments
 
 * WHU dataset providers
